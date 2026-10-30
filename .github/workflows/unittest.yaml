@@ -2,7 +2,7 @@ name: Run Unittest
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     types: [opened, synchronize, closed]
 
